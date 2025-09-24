@@ -1,4 +1,3 @@
-[saaoqa.html](https://github.com/user-attachments/files/22515112/saaoqa.html)
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
